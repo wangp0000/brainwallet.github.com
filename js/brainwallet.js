@@ -1,6 +1,6 @@
 (function($){
 
-    var gen_from = 'pass';
+    var gen_from = 'ddddd';
     var gen_compressed = false;
     var gen_eckey = null;
     var gen_pt = null;
